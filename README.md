@@ -1,4 +1,6 @@
 # Inventory manager
+[![CI](https://github.com/tomivv/inventory-manager/actions/workflows/build.yml/badge.svg)](https://github.com/tomivv/inventory-manager/actions/workflows/build.yml)
+---
 
 ## 🚨 About this project
 
